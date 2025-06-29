@@ -21,11 +21,10 @@ Design and characterize a two-stage OTA to:
 ### 🔹 Closed-Loop Gain
 - **Target Gain**: 2  
 - **Measured Gain**:  
-  \( A = \frac{1.7560233 - 1.755550}{0.0002} = \mathbf{2.36} \)
+  2.36 dB
 
 ### 🔹 Phase Margin
-- \( PM = 180^\circ - 76.257^\circ = \mathbf{103^\circ} \)
-
+103 degree
 ### 🔹 Step Response
 - Step input: 0.2 V (rise/fall time = 0.1 ns)
 - Response demonstrates stability and expected settling behavior.
