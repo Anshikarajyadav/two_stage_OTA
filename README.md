@@ -7,13 +7,6 @@ Design and characterize a two-stage OTA to:
 - Achieve high open-loop gain.
 - Provide a stable phase margin in a closed-loop configuration.
 - Validate functionality with both AC and time-domain responses.
-## Design Specifications
-
--Vdd=1.8V
--DC gain > 60dB
--PM>=60 degree
--CL=2pF
--Cc=0.8pF
 
 ## 📁 Files Included
 
